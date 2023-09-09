@@ -1,0 +1,47 @@
+body,
+html{ 
+    background: url(header.jpeg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+
+hr {
+    margin: 20px auto;
+    color: aliceblue;
+    border: 1.px solid aliceblue;
+    max-width: 105px;
+    opacity: 1;  
+}
+
+
+.btn{
+    font-weight: 700;
+    border-radius: 300px;
+}
+
+
+.btn-xl{
+    padding: 1rem 2rem
+
+}
+
+
+.btn-primary:hover{
+    color: black;
+    background-color: aliceblue;
+    border-color: aliceblue;
+}
+
+
+.buffer{
+    height: 5rem;
+
+}

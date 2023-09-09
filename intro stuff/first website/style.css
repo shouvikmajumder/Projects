@@ -1,0 +1,23 @@
+/* Selector {
+    Property: value;
+
+} */
+
+
+body {background-image: url(https://images.theconversation.com/files/529439/original/file-20230531-21-rqrm8k.png?ixlib=rb-1.1.0&rect=8%2C26%2C878%2C570&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip);
+
+}
+h1 :hover{
+    color : blueviolet; 
+    background-color: black;
+    text-align: center;
+    border: 5px solid purple;
+}
+
+h2 :hover{
+    color : red; 
+    background-color: black;
+    text-align: center;
+    border: 5px solid purple;
+}
+
